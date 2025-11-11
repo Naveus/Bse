@@ -1,0 +1,37 @@
+a{
+    color: black;   
+    text-decoration: none;
+
+}
+
+p{
+    color:cadetblue;
+    font-size: 16px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+h1{
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+a:hover{
+    color: green;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.b{
+    color: black;
+    font-size: 16px;
+}
+.c{
+    color:aquamarine;
+    font-size: 18px;
+}
+#mor {
+    color:blueviolet
+}
+.pink{
+    color:pink;
+}
+
